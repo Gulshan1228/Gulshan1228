@@ -1,0 +1,10 @@
+const userDetails = () => {
+  let object = {
+    username:  'Gulshan Singh',
+        city:  'Faridabad , Haryana',
+     program:  'B.Tech',
+      branch:  'Computer Science and Engineering',
+        year:   2020-2024
+  }
+  console.log(object)
+}
