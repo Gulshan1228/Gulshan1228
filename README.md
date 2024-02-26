@@ -5,7 +5,7 @@
 <h3 align="center">A Final year B.Tech/BE Student in Computer Science from Faridabad ,A passionate Web Designer, Python Developer.</h3>
 <img src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg" width="500px" alt="coding" align="right"/>
 
-<p align="left"> <img src="https://gulshan1228.github.io/Portfolio/img/itsme.png" alt="Gulshan singh" /> </p>
+<p align="left"> <img src="https://gulshan1228.github.io/Portfolio/img/itsme.png" alt="Gulshan singh" style=" height:100px" /> </p>
 
 - 🌱 I’m currently learning **ReactJs,Django**
 
