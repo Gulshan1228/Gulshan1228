@@ -1,7 +1,7 @@
 
 ![Masterhead](https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif?cid=ecf05e470p4cj9ujcpccax6xvb5rlnflowm05u4rf2obzkpt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-<h2 align="center">Hi, It's Me</h2>
+<p align="center">Hi, It's Me</p>
 <h1 align="center">Gulshan Singh  </h1>
 <h3 align="center">Web Developer | Crafting Innovative Solutions with Code Excellence and latest Cutting-Edge Development Strategies.</h3>
 <img src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg" width="500px" alt="coding" align="right"/>
