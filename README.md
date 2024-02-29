@@ -1,11 +1,10 @@
 
-][![Masterhead align="center"](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761175qg22nz956r88cowvqt7d8wmzkt15tp1k884izw&ep=v1_gifs_search&rid=giphy.gif&ct=g)]]
+[![Masterhead align="center"](https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif?cid=ecf05e470p4cj9ujcpccax6xvb5rlnflowm05u4rf2obzkpt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-<h1 align="center">Hey👋 , This is Gulshan Singh  </h1>
+<h3 align="center">Hi, It's Me</h3>
+<h1 align="center">Gulshan Singh  </h1>
 <h3 align="center">A Final year B.Tech/BE Student in Computer Science from Faridabad, A passionate Web Developer, Python Developer.</h3>
 <img src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg" width="500px" alt="coding" align="right"/>
-
-<p align="left"> <img src="https://gulshan1228.github.io/Portfolio/img/itsme.png" alt="Gulshan singh" style=" height:300px" /> </p>
 
 - 🌱 I’m currently learning **ReactJs,Django**
 
