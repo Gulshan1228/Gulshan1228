@@ -14,7 +14,7 @@
 
 - 📫 Contact me at +91-8920461228 for more ! 
 
-- ⚡ Fun fact **Love Coding Rather than Humans :)**
+- ⚡ Fun fact **Love Coding Rather than Humans **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
