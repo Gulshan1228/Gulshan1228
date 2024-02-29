@@ -1,5 +1,5 @@
 
-[![Masterhead align="center"](https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif?cid=ecf05e470p4cj9ujcpccax6xvb5rlnflowm05u4rf2obzkpt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Masterhead](https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif?cid=ecf05e470p4cj9ujcpccax6xvb5rlnflowm05u4rf2obzkpt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h3 align="center">Hi, It's Me</h3>
 <h1 align="center">Gulshan Singh  </h1>
